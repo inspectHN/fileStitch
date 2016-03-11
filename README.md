@@ -3,15 +3,15 @@ fileStitch
 ###############
 ## Author(s) ##
 ###############
-Stephan Gross (a.k.a. inspectHN), original creator/author  
+Stephan Gross (a.k.a. persebek), original creator/author  
 Contact: stephan@sgrosshome.com
 
 ############
 ## Github ##
 ############
-url: https://github.com/inspectHN/fileStitch  
-ssh: git@github.com:inspectHN/fileStitch.git  
-svn: https://github.com/inspectHN/fileStitch
+url: https://github.com/persebek/fileStitch  
+ssh: git@github.com:persebek/fileStitch.git  
+svn: https://github.com/persebek/fileStitch
 
 ###############
 ## Licensing ##

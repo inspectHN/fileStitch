@@ -3,7 +3,7 @@
 ############################
 # Name:	   fileStitch.py
 # Author:  Stephan Gross
-# Date:	   07/08/2013
+# Date:	   2013-07-08
 # Purpose: Is used to try and piece together files in 'file carving' challenges. These \
 #	   challenges usually give you a file that has been cut into multiple pieces, \
 #	   and it is your job to put them together in the correct order.
